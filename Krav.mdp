@@ -1,0 +1,16 @@
+Syftet: 
+Digitalt kösystem för inckeckning av bagage på Arlanda Flygplats. Ska hjälpa att visualisera och hålla reda på kön. 
+
+Krav 1: Kösystemet ska inte ha någon i kö från början.
+Krav 2: Användaren ska själv lägga till personer i kön med namn. 
+Krav 3: Personerna ska hamna i en lista med information om vem som är i kön och vilken plats personen har i kön.
+Krav 4: Personen ska hamna sist i kön/listan.
+Krav 5. Det ska finnas en Fast Track-knapp som placerar personen man lägger till längst fram i kön/listan.
+Krav 6: När en person har checkat in ska det gå att klicka på en knapp för att ta bort den första personen i kön. 
+Krav 7: Om kön är tom ska vi skriva ut ett meddelande "There's currently no people standing in line" på sidan. 
+
+Inlämning: senast 22/10 i form av en .zip-fil som innehåller all kod eller länk till GitHub-repo. 
+
+
+
+

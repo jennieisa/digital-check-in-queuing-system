@@ -1,0 +1,63 @@
+#rubrik1 {
+   
+     padding: 10px;
+     text-align: center;
+     color: white;
+     font-family:Century Gothic;
+     background: #ec81a157;
+}
+
+body {
+     font-family: Century Gothic;
+     background-image: url(https://cdn-icons-png.flaticon.com/512/2996/2996082.png);
+     background-repeat: no-repeat;
+     background-position: right;
+     background-attachment: fixed;
+     background-size: 250px;
+}
+
+#knappCheckaIn {
+     width: 200px;
+     font-size: 20px;
+     padding: 10px;
+     border-radius: 5px;
+     border: 3px solid rgba(90, 105, 172, 0.671);
+     color: black;
+}
+
+#knappLäggTill {
+     width: 200px;
+     font-size: 20px;
+     padding: 10px;
+     border-radius: 5px;
+     border: 3px solid rgba(90, 105, 172, 0.671);
+     color: black;
+}
+
+#knappFastTrack {
+     width: 200px;
+     font-size: 20px;
+     padding: 10px;
+     border-radius: 5px;
+     border: 3px solid rgba(90, 105, 172, 0.671);
+     color: black;
+}
+
+#nyPersonNamn {
+     width: 200px;
+     font-size: 20px;
+     padding: 10px;
+     border-radius: 5px;
+     border: 3px solid rgba(90, 105, 172, 0.671);
+     color: black;
+}
+
+#köSystem {
+     background-image: url(https://cdn-icons-png.flaticon.com/512/991/991748.png);
+     background-repeat: no-repeat;
+     width: 50px;
+     background-position: right;
+     background-attachment: fixed;
+     background-size: 250px;
+}
+
