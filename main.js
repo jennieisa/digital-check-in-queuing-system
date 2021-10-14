@@ -46,7 +46,7 @@ let checkedInButton = document.querySelector("#knappCheckaIn"); //Hämtar knapp
 
 checkedInButton.addEventListener("click", () => { //Funktion som körs när vi klickar på knappen
      if (luggageQueue.length === 0) { //Om arrayens längd är 0 så skrivs nedan ut 
-          alert("There's currently no people in the line.");
+          alert("There’s currently no people standing in line");
      }else if (luggageQueue.length === 1) { //Om inte if villkoret uppfylls så sker nedan om längden på arrayen är 1 
           luggageQueue.shift(); //Tar bort första elementet i arrayen
           console.log(luggageQueue); //Kollar så det ser rätt ut i konsollen
