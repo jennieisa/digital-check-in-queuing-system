@@ -11,7 +11,8 @@ body {
      font-family: Century Gothic;
      background-image: url(https://cdn-icons-png.flaticon.com/512/2996/2996082.png);
      background-repeat: no-repeat;
-     background-position: right;
+     background-position-x: right;
+     background-position-y: bottom;
      background-attachment: fixed;
      background-size: 250px;
 }
@@ -27,7 +28,7 @@ body {
 
 #knappLäggTill {
      width: 200px;
-     font-size: 20px;
+     font-size: 15px;
      padding: 10px;
      border-radius: 5px;
      border: 3px solid rgba(90, 105, 172, 0.671);
@@ -36,7 +37,7 @@ body {
 
 #knappFastTrack {
      width: 200px;
-     font-size: 20px;
+     font-size: 15px;
      padding: 10px;
      border-radius: 5px;
      border: 3px solid rgba(90, 105, 172, 0.671);
@@ -44,8 +45,8 @@ body {
 }
 
 #nyPersonNamn {
-     width: 200px;
-     font-size: 20px;
+     width: 175px;
+     font-size: 15px;
      padding: 10px;
      border-radius: 5px;
      border: 3px solid rgba(90, 105, 172, 0.671);
