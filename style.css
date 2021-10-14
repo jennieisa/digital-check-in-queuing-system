@@ -61,3 +61,6 @@ body {
      background-size: 250px;
 }
 
+#tomKö {
+     display: flex;
+}
