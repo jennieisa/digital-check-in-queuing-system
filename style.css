@@ -4,17 +4,11 @@
      text-align: center;
      color: white;
      font-family:Century Gothic;
-     background: #ec81a157;
+     background: #81a6ec85;
 }
 
 body {
      font-family: Century Gothic;
-     background-image: url(https://cdn-icons-png.flaticon.com/512/2996/2996082.png);
-     background-repeat: no-repeat;
-     background-position-x: right;
-     background-position-y: bottom;
-     background-attachment: fixed;
-     background-size: 250px;
 }
 
 #knappCheckaIn {
@@ -53,15 +47,7 @@ body {
      color: black;
 }
 
-#köSystem {
-     background-image: url(https://cdn-icons-png.flaticon.com/512/991/991748.png);
-     background-repeat: no-repeat;
-     width: 50px;
-     background-position: right;
-     background-attachment: fixed;
-     background-size: 250px;
-}
-
 #tomKö {
      display: flex;
 }
+
